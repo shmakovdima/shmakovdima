@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitrii Shmakov</h1>
-<h3 align="left">Experienced lead software engineer with 10 years of proven success leading high-performing teams and delivering quality websoftware products at all stages of the development cycle and covering by tests up to 100%. With a solid foundation in frontend engineering, I possess a robust technical background in large and complex solutions. You can find my CV <a title="CV" href="https://www.shmakovdima.ru/dmitrii_shmakov_cv.pdf">here</a></h3>
+<h3 align="left">Experienced lead software engineer with 10 years of proven success leading high-performing teams and delivering quality websoftware products at all stages of the development cycle and covering by tests up to 100%. With a solid foundation in frontend engineering, I possess a robust technical background in large and complex solutions. You can find my CV <a title="CV" href="https://www.shmakovdima.com/dmitrii_shmakov_cv.pdf">here</a></h3>
 
 - 💬 Ask me about **React, Next.js, MoscowJS**
 
