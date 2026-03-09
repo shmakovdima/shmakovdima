@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React, Next.js, MoscowJS**
 
-- 📫 How to reach me **shmakovdima2101@gmail.com*
+- 📫 How to reach me **shmakovdima2101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
